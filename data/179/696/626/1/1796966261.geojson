@@ -2,10 +2,12 @@
   "id": 1796966261,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-01",
-    "date:inception_upper": "2023-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-01",
+    "date:cessation_lower": "2023-01-02",
+    "date:cessation_upper": "2023-01-02",
+    "date:inception_lower": "2023-01-02",
+    "date:inception_upper": "2023-01-02",
+    "edtf:cessation": "2023-01-02T12:12:00Z",
+    "edtf:inception": "2023-01-02T07:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.2547305,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530841,
     "sfomuseum:base_flight_id": "20230101-D-VOZ-8478",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47505",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22880968",
+      "swim:gufi": "KO18884200"
+    },
     "wof:country": "US",
     "wof:created": 1672676624,
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796966261,
     "wof:involves": [
-      102530841,
       102527513,
       1159285413,
       1763588149,
-      1159285485
+      1159285485,
+      1528104577,
+      102530841
     ],
-    "wof:lastmodified": 1672676624,
+    "wof:lastmodified": 1672676777,
     "wof:name": "UA2482 (SFO-FLL)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796962181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-01",
+    "date:cessation_upper": "2023-01-01",
     "date:inception_lower": "2023-01-01",
     "date:inception_upper": "2023-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-01",
+    "edtf:cessation": "2023-01-01T02:00:34-08:00",
+    "edtf:inception": "2023-01-01T16:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230101-A-AFR-5883",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N321US",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22908533",
+      "swim:gufi": "KL55556100"
+    },
     "wof:country": "US",
     "wof:created": 1672675602,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796962181,
     "wof:involves": [
-      102527513,
       102533795,
       1159284261,
       1763588237,
-      1159283627
+      1159283627,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1672675602,
+    "wof:lastmodified": 1672676773,
     "wof:name": "DL1721 (LAX-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

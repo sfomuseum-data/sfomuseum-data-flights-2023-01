@@ -2,10 +2,12 @@
   "id": 1796963371,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-01",
-    "date:inception_upper": "2023-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-01",
+    "date:cessation_lower": "2023-01-01",
+    "date:cessation_upper": "2023-01-01",
+    "date:inception_lower": "2023-01-02",
+    "date:inception_upper": "2023-01-02",
+    "edtf:cessation": "2023-01-01T11:04:32-08:00",
+    "edtf:inception": "2023-01-02T01:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N27546",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KS79322100"
+    },
     "wof:country": "US",
     "wof:created": 1672675898,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1796963371,
     "wof:involves": [
+      1528104577,
       102527513,
       102533269,
       1159285413,
       1763588353
     ],
-    "wof:lastmodified": 1672675898,
+    "wof:lastmodified": 1672676775,
     "wof:name": "UA2748 (SEA-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",
