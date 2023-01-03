@@ -2,10 +2,12 @@
   "id": 1796973815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-02",
+    "date:cessation_upper": "2023-01-02",
     "date:inception_lower": "2023-01-02",
     "date:inception_upper": "2023-01-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-02",
+    "edtf:cessation": "2023-01-02T07:39:19Z",
+    "edtf:inception": "2023-01-02T06:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22973914"
+    },
     "wof:country": "US",
     "wof:created": 1672763191,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -92,7 +97,7 @@
       1763588339,
       1159286015
     ],
-    "wof:lastmodified": 1672763191,
+    "wof:lastmodified": 1672763368,
     "wof:name": "UA2034 (SFO-LAX)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

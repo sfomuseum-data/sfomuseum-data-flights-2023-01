@@ -2,10 +2,12 @@
   "id": 1796970603,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-02",
+    "date:cessation_upper": "2023-01-02",
     "date:inception_lower": "2023-01-02",
     "date:inception_upper": "2023-01-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-02",
+    "edtf:cessation": "2023-01-02T08:12:00Z",
+    "edtf:inception": "2023-01-02T03:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22967058"
+    },
     "wof:country": "US",
     "wof:created": 1672762361,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -92,7 +97,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1672762361,
+    "wof:lastmodified": 1672763374,
     "wof:name": "UA1972 (ORD-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
