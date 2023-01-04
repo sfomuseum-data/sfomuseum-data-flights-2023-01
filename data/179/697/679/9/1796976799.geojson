@@ -1,0 +1,69 @@
+{
+  "id": 1796976799,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-01-03",
+    "date:inception_upper": "2023-01-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-01-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2023-01-03",
+    "flysfo:estimated_timestamp": 1672807860,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9801",
+    "flysfo:gate": "",
+    "flysfo:journey": "ABQ-SFO",
+    "flysfo:scheduled_timestamp": 1672803900,
+    "flysfo:timestamp": 1672807860,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.048762,-106.620586,37.617990",
+    "geom:latitude": 36.333376,
+    "geom:longitude": -114.4957645,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102529173,
+    "sfomuseum:flight_id": "20230103-A-ASA-9801",
+    "sfomuseum:flight_number": [
+      "ASA9801",
+      "AS9801"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1672848415,
+    "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796976799
+      }
+    ],
+    "wof:id": 1796976799,
+    "wof:involves": [
+      102527513,
+      102529173,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1672848415,
+    "wof:name": "AS9801 (ABQ-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.048762,
+    -106.620586,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-106.620586,35.048762],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
