@@ -2,10 +2,12 @@
   "id": 1796981611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-03",
+    "date:cessation_upper": "2023-01-03",
     "date:inception_lower": "2023-01-03",
     "date:inception_upper": "2023-01-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-03",
+    "edtf:cessation": "2023-01-03T22:43:07Z",
+    "edtf:inception": "2023-01-03T10:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102535777,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27908",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "23202927"
+    },
     "wof:country": "US",
     "wof:created": 1672849632,
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
@@ -48,9 +60,9 @@
       102535777,
       102527513,
       1159285413,
-      -1
+      1159289995
     ],
-    "wof:lastmodified": 1672849632,
+    "wof:lastmodified": 1672849777,
     "wof:name": "UA2802 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
