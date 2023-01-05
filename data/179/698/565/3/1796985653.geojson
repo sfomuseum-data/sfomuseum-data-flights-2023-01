@@ -2,10 +2,12 @@
   "id": 1796985653,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-04",
-    "date:inception_upper": "2023-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-04",
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
+    "date:inception_lower": "2023-01-05",
+    "date:inception_upper": "2023-01-05",
+    "edtf:cessation": "2023-01-05T07:17:15Z",
+    "edtf:inception": "2023-01-05T02:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230104-A-ACA-3551",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N29124",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO20598500"
+    },
     "wof:country": "US",
     "wof:created": 1672935423,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796985653,
     "wof:involves": [
+      1159289939,
       102527513,
       102532929,
       1159285413,
       1763588319,
       1159283597
     ],
-    "wof:lastmodified": 1672935423,
+    "wof:lastmodified": 1672936550,
     "wof:name": "UA2396 (OGG-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

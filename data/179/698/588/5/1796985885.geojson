@@ -2,10 +2,12 @@
   "id": 1796985885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-04",
+    "date:cessation_upper": "2023-01-04",
     "date:inception_lower": "2023-01-04",
     "date:inception_upper": "2023-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-04",
+    "edtf:cessation": "2023-01-04T08:04:00Z",
+    "edtf:inception": "2023-01-04T02:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23186557"
+    },
     "wof:country": "US",
     "wof:created": 1672935504,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -92,7 +97,7 @@
       1763588319,
       1159283697
     ],
-    "wof:lastmodified": 1672935504,
+    "wof:lastmodified": 1672936551,
     "wof:name": "UA765 (EWR-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

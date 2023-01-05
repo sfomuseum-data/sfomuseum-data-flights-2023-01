@@ -2,10 +2,12 @@
   "id": 1796988805,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-04",
-    "date:inception_upper": "2023-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-04",
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
+    "date:inception_lower": "2023-01-05",
+    "date:inception_upper": "2023-01-05",
+    "edtf:cessation": "2023-01-05T12:15:00Z",
+    "edtf:inception": "2023-01-04T16:45:11-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20230104-D-ACA-5025",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N482UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO21270500"
+    },
     "wof:country": "US",
     "wof:created": 1672936407,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -90,9 +103,10 @@
       102527513,
       1159285413,
       1763588291,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1672936407,
+    "wof:lastmodified": 1672936558,
     "wof:name": "UA412 (SFO-MEX)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

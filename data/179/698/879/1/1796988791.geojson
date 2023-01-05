@@ -2,10 +2,12 @@
   "id": 1796988791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
     "date:inception_lower": "2023-01-04",
     "date:inception_upper": "2023-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-04",
+    "edtf:cessation": "2023-01-05T01:05:00Z",
+    "edtf:inception": "2023-01-04T04:42:06-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N13113",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "23299812",
+      "swim:gufi": "KO61584400"
+    },
     "wof:country": "US",
     "wof:created": 1672936403,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1796988791,
     "wof:involves": [
-      102533657,
       102527513,
       1159285413,
-      -1
+      1159289939,
+      102533657
     ],
-    "wof:lastmodified": 1672936403,
+    "wof:lastmodified": 1672936567,
     "wof:name": "UA2755 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
