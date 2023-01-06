@@ -2,10 +2,12 @@
   "id": 1796993683,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
     "date:inception_lower": "2023-01-05",
     "date:inception_upper": "2023-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-05",
+    "edtf:cessation": "2023-01-05T19:17:21Z",
+    "edtf:inception": "2023-01-05T15:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:date": "2023-01-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.524645999999997,
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "XAAMJ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +53,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23325641"
+    },
     "wof:country": "US",
     "wof:created": 1673021888,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1796993683,
     "wof:involves": [
+      1763588417,
+      1159289871,
       102536579,
       102527513,
-      1159283539,
-      1763588417
+      1159283539
     ],
-    "wof:lastmodified": 1673021888,
+    "wof:lastmodified": 1673022588,
     "wof:name": "AM699 (SFO-MEX)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

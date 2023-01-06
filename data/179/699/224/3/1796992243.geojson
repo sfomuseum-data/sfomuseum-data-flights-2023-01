@@ -2,10 +2,12 @@
   "id": 1796992243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
     "date:inception_lower": "2023-01-05",
     "date:inception_upper": "2023-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-05",
+    "edtf:cessation": "2023-01-05T19:46:42Z",
+    "edtf:inception": "2023-01-05T19:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-01-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527529,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N465WN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "23422452"
+    },
     "wof:country": "US",
     "wof:created": 1673021522,
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1796992243,
     "wof:involves": [
+      1159289869,
       102527513,
       102527529,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1673021522,
+    "wof:lastmodified": 1673022584,
     "wof:name": "WN8506 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

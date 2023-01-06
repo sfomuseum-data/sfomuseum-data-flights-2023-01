@@ -2,10 +2,12 @@
   "id": 1796992033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-05",
+    "date:cessation_upper": "2023-01-05",
     "date:inception_lower": "2023-01-05",
     "date:inception_upper": "2023-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-05",
+    "edtf:cessation": "2023-01-05T01:09:47Z",
+    "edtf:inception": "2023-01-05T00:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:date": "2023-01-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "QR",
+    "icao:aircraft": "A35K",
     "icao:airline": "QTR",
     "lbl:latitude": 37.61227,
     "lbl:longitude": -122.390079,
+    "sfomuseum:aircraft_id": 1377649085,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23365657"
+    },
     "wof:country": "US",
     "wof:created": 1673021468,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1796992033,
     "wof:involves": [
+      1377649085,
       102527513,
       102533795,
       1159286153,
       1763588431
     ],
-    "wof:lastmodified": 1673021468,
+    "wof:lastmodified": 1673022583,
     "wof:name": "QR737 (LAX-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",
