@@ -2,10 +2,12 @@
   "id": 1797003201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-07",
+    "date:cessation_upper": "2023-01-07",
     "date:inception_lower": "2023-01-06",
     "date:inception_upper": "2023-01-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-06",
+    "edtf:cessation": "2023-01-07T01:56:00Z",
+    "edtf:inception": "2023-01-06T21:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N47517",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "23526469",
+      "swim:gufi": "KO73039600"
+    },
     "wof:country": "US",
     "wof:created": 1673108814,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1797003201,
     "wof:involves": [
+      1528104577,
       102533243,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1673108814,
+    "wof:lastmodified": 1673108923,
     "wof:name": "UA8100 (SFO-TPA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

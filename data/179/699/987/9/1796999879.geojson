@@ -2,10 +2,12 @@
   "id": 1796999879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-07",
+    "date:cessation_upper": "2023-01-07",
     "date:inception_lower": "2023-01-06",
     "date:inception_upper": "2023-01-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-06",
+    "edtf:cessation": "2023-01-07T13:30:00Z",
+    "edtf:inception": "2023-01-06T23:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-06",
@@ -21,9 +23,11 @@
     "geom:latitude": -0.02513150000000053,
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102557779,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N29975",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "23379796"
+    },
     "wof:country": "US",
     "wof:created": 1673107975,
     "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
@@ -48,9 +59,9 @@
       102527513,
       102557779,
       1159285413,
-      -1
+      1159293215
     ],
-    "wof:lastmodified": 1673107975,
+    "wof:lastmodified": 1673108919,
     "wof:name": "UA3010 (MEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
