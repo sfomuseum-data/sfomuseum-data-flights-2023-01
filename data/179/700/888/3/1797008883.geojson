@@ -2,10 +2,12 @@
   "id": 1797008883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-07",
+    "date:cessation_upper": "2023-01-07",
     "date:inception_lower": "2023-01-07",
     "date:inception_upper": "2023-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-07",
+    "edtf:cessation": "2023-01-07T20:03:54Z",
+    "edtf:inception": "2023-01-07T18:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2023-01-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "F8",
+    "icao:aircraft": "B738",
     "icao:airline": "FLE",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1763552143,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CFFLC",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23510553"
+    },
     "wof:country": "US",
     "wof:created": 1673194883,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -84,9 +96,10 @@
       102555307,
       102527513,
       1763552143,
-      1763588409
+      1763588409,
+      1159289871
     ],
-    "wof:lastmodified": 1673194883,
+    "wof:lastmodified": 1673195262,
     "wof:name": "F8227 (SFO-YVR)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

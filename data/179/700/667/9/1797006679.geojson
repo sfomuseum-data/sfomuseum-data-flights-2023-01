@@ -2,10 +2,12 @@
   "id": 1797006679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-08",
+    "date:cessation_upper": "2023-01-08",
     "date:inception_lower": "2023-01-07",
     "date:inception_upper": "2023-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-07",
+    "edtf:cessation": "2023-01-07T21:40:58-08:00",
+    "edtf:inception": "2023-01-07T09:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230107-A-ANZ-9153",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N211UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23479621",
+      "swim:gufi": "KO43727700"
+    },
     "wof:country": "US",
     "wof:created": 1673194336,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1797006679,
     "wof:involves": [
+      1763588309,
+      1159283697,
+      1159289985,
       102527513,
       102533997,
-      1159285413,
-      1763588309,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1673194336,
+    "wof:lastmodified": 1673195256,
     "wof:name": "UA2127 (HNL-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

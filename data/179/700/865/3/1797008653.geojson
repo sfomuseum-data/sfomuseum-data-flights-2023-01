@@ -2,10 +2,12 @@
   "id": 1797008653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-07",
+    "date:cessation_upper": "2023-01-07",
     "date:inception_lower": "2023-01-07",
     "date:inception_upper": "2023-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-07",
+    "edtf:cessation": "2023-01-07T18:10:00Z",
+    "edtf:inception": "2023-01-07T14:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:base_flight_id": "20230107-D-KLM-5605",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N586NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23491803",
+      "swim:gufi": "KO46263700"
+    },
     "wof:country": "US",
     "wof:created": 1673194821,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1797008653,
     "wof:involves": [
-      102525635,
       102527513,
       1159284261,
       1763588237,
-      1159284613
+      1159284613,
+      1159289945,
+      102525635
     ],
-    "wof:lastmodified": 1673194821,
+    "wof:lastmodified": 1673195261,
     "wof:name": "DL843 (SFO-DTW)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
