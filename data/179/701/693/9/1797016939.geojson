@@ -2,10 +2,12 @@
   "id": 1797016939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-08",
+    "date:cessation_upper": "2023-01-08",
     "date:inception_lower": "2023-01-08",
     "date:inception_upper": "2023-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-08",
+    "edtf:cessation": "2023-01-08T23:08:00Z",
+    "edtf:inception": "2023-01-08T19:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:base_flight_id": "20230108-D-VOZ-8476",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N434UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23602777",
+      "swim:gufi": "KO55468100"
+    },
     "wof:country": "US",
     "wof:created": 1673281599,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1797016939,
     "wof:involves": [
+      1159292085,
       102530009,
       102527513,
       1159285413,
       1763588149,
       1159285485
     ],
-    "wof:lastmodified": 1673281599,
+    "wof:lastmodified": 1673281760,
     "wof:name": "UA2438 (SFO-MSY)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",
