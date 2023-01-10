@@ -1,0 +1,69 @@
+{
+  "id": 1797028627,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-01-09",
+    "date:inception_upper": "2023-01-09",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-01-09",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2023-01-09",
+    "flysfo:estimated_timestamp": 1673311020,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8842",
+    "flysfo:gate": "",
+    "flysfo:journey": "OAK-SFO",
+    "flysfo:scheduled_timestamp": 1673311080,
+    "flysfo:timestamp": 1673311080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.212464,37.721310",
+    "geom:latitude": 37.669650000000004,
+    "geom:longitude": -122.2917035,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531041,
+    "sfomuseum:flight_id": "20230109-A-DAL-8842",
+    "sfomuseum:flight_number": [
+      "DAL8842",
+      "DL8842"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1673366931,
+    "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1797028627
+      }
+    ],
+    "wof:id": 1797028627,
+    "wof:involves": [
+      102527513,
+      102531041,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1673366931,
+    "wof:name": "DL8842 (OAK-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.212464,
+    37.72131
+  ],
+  "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
