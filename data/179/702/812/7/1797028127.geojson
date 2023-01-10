@@ -2,10 +2,12 @@
   "id": 1797028127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-09",
+    "date:cessation_upper": "2023-01-09",
     "date:inception_lower": "2023-01-09",
     "date:inception_upper": "2023-01-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-09",
+    "edtf:cessation": "2023-01-09T15:50:00Z",
+    "edtf:inception": "2023-01-09T14:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2023-01-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N929AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23662725"
+    },
     "wof:country": "US",
     "wof:created": 1673366804,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -84,9 +96,10 @@
       102527513,
       102528997,
       1159283813,
-      1763588145
+      1763588145,
+      1528104577
     ],
-    "wof:lastmodified": 1673366804,
+    "wof:lastmodified": 1673368191,
     "wof:name": "AS1471 (SAN-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1797029791,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-09",
-    "date:inception_upper": "2023-01-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-09",
+    "date:cessation_lower": "2023-01-09",
+    "date:cessation_upper": "2023-01-09",
+    "date:inception_lower": "2023-01-10",
+    "date:inception_upper": "2023-01-10",
+    "edtf:cessation": "2023-01-09T13:07:49-08:00",
+    "edtf:inception": "2023-01-10T03:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230109-A-ANZ-9352",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37528",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KS06083300"
+    },
     "wof:country": "US",
     "wof:created": 1673367230,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1797029791,
     "wof:involves": [
+      1159283697,
+      1528104577,
       102527513,
       102532251,
       1159285413,
-      1763588315,
-      1159283697
+      1763588315
     ],
-    "wof:lastmodified": 1673367230,
+    "wof:lastmodified": 1673368205,
     "wof:name": "UA2482 (PDX-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
