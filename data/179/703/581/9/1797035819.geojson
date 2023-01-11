@@ -2,10 +2,12 @@
   "id": 1797035819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-10",
+    "date:cessation_upper": "2023-01-10",
     "date:inception_lower": "2023-01-10",
     "date:inception_upper": "2023-01-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-10",
+    "edtf:cessation": "2023-01-10T20:57:00Z",
+    "edtf:inception": "2023-01-10T19:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230110-A-AAL-7560",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N975AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23773217"
+    },
     "wof:country": "US",
     "wof:created": 1673453229,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1797035819,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102527513,
       102527209,
       1159283813,
-      1763588141,
-      1159283849
+      1763588141
     ],
-    "wof:lastmodified": 1673453229,
+    "wof:lastmodified": 1673454580,
     "wof:name": "AS718 (LAS-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

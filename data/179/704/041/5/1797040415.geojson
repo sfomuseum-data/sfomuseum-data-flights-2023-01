@@ -2,10 +2,12 @@
   "id": 1797040415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-10",
+    "date:cessation_upper": "2023-01-10",
     "date:inception_lower": "2023-01-10",
     "date:inception_upper": "2023-01-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-10",
+    "edtf:cessation": "2023-01-10T04:24:08Z",
+    "edtf:inception": "2023-01-10T03:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23722202"
+    },
     "wof:country": "US",
     "wof:created": 1673454410,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -92,7 +97,7 @@
       1763588315,
       1159283697
     ],
-    "wof:lastmodified": 1673454410,
+    "wof:lastmodified": 1673454576,
     "wof:name": "UA2010 (SFO-SAN)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
