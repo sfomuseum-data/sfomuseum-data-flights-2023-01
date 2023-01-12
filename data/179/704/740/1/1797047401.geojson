@@ -2,10 +2,12 @@
   "id": 1797047401,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-11",
+    "date:cessation_upper": "2023-01-11",
     "date:inception_lower": "2023-01-11",
     "date:inception_upper": "2023-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-11",
+    "edtf:cessation": "2023-01-11T11:14:25Z",
+    "edtf:inception": "2023-01-11T06:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23814636"
+    },
     "wof:country": "US",
     "wof:created": 1673540686,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -92,7 +97,7 @@
       1763588149,
       1159283697
     ],
-    "wof:lastmodified": 1673540686,
+    "wof:lastmodified": 1673540905,
     "wof:name": "UA1204 (SFO-PIT)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1797043391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-11",
+    "date:cessation_upper": "2023-01-11",
     "date:inception_lower": "2023-01-11",
     "date:inception_upper": "2023-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-11",
+    "edtf:cessation": "2023-01-11T05:24:48-08:00",
+    "edtf:inception": "2023-01-11T19:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230111-A-VIR-4538",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N914DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23854448",
+      "swim:gufi": "KU63056400"
+    },
     "wof:country": "US",
     "wof:created": 1673539650,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -90,9 +104,10 @@
       102527363,
       1159284261,
       1763588245,
-      1159285483
+      1159285483,
+      1377564285
     ],
-    "wof:lastmodified": 1673539650,
+    "wof:lastmodified": 1673540902,
     "wof:name": "DL2414 (SLC-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

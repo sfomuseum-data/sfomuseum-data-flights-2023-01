@@ -2,10 +2,12 @@
   "id": 1797043389,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-11",
-    "date:inception_upper": "2023-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-11",
+    "date:cessation_lower": "2023-01-11",
+    "date:cessation_upper": "2023-01-11",
+    "date:inception_lower": "2023-01-12",
+    "date:inception_upper": "2023-01-12",
+    "edtf:cessation": "2023-01-11T15:37:24-08:00",
+    "edtf:inception": "2023-01-12T05:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230111-A-AMX-3847",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N362NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KU17756501"
+    },
     "wof:country": "US",
     "wof:created": 1673539650,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1797043389,
     "wof:involves": [
+      1159292085,
       102527513,
       102527363,
       1159284261,
       1763588249,
       1159283539
     ],
-    "wof:lastmodified": 1673539650,
+    "wof:lastmodified": 1673540901,
     "wof:name": "DL2348 (SLC-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",
