@@ -2,10 +2,12 @@
   "id": 1797055045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-12",
+    "date:cessation_upper": "2023-01-12",
     "date:inception_lower": "2023-01-12",
     "date:inception_upper": "2023-01-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-12",
+    "edtf:cessation": "2023-01-12T22:36:00Z",
+    "edtf:inception": "2023-01-12T17:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-01-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533243,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47524",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23936198",
+      "swim:gufi": "KO48500500"
+    },
     "wof:country": "US",
     "wof:created": 1673627223,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1797055045,
     "wof:involves": [
+      1763588355,
+      1528104577,
       102533243,
       102527513,
-      1159285413,
-      1763588355
+      1159285413
     ],
-    "wof:lastmodified": 1673627223,
+    "wof:lastmodified": 1673627409,
     "wof:name": "UA1958 (SFO-TPA)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",
