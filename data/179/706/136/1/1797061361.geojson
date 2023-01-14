@@ -2,10 +2,12 @@
   "id": 1797061361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-13",
+    "date:cessation_upper": "2023-01-13",
     "date:inception_lower": "2023-01-13",
     "date:inception_upper": "2023-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-13",
+    "edtf:cessation": "2023-01-13T04:10:00Z",
+    "edtf:inception": "2023-01-13T00:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-01-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23978684",
+      "swim:gufi": "KO83160500"
+    },
     "wof:country": "US",
     "wof:created": 1673713288,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1797061361,
     "wof:involves": [
-      102525635,
-      102527513,
       1159284261,
-      1763588237
+      1763588237,
+      1377564285,
+      102525635,
+      102527513
     ],
-    "wof:lastmodified": 1673713288,
+    "wof:lastmodified": 1673713757,
     "wof:name": "DL766 (SFO-DTW)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

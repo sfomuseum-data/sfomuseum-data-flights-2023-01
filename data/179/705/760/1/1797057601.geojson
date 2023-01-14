@@ -2,10 +2,12 @@
   "id": 1797057601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-13",
+    "date:cessation_upper": "2023-01-13",
     "date:inception_lower": "2023-01-13",
     "date:inception_upper": "2023-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-13",
+    "edtf:cessation": "2023-01-13T02:35:15-08:00",
+    "edtf:inception": "2023-01-13T17:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "THT",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230113-A-THT-2456",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N494AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24023934"
+    },
     "wof:country": "US",
     "wof:created": 1673712353,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1797057601,
     "wof:involves": [
+      1377564285,
       102527513,
       102533795,
       1159283813,
       1763588131,
       1159283747
     ],
-    "wof:lastmodified": 1673712353,
+    "wof:lastmodified": 1673713754,
     "wof:name": "AS1049 (LAX-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

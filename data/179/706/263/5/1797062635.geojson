@@ -2,10 +2,12 @@
   "id": 1797062635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-13",
+    "date:cessation_upper": "2023-01-13",
     "date:inception_lower": "2023-01-13",
     "date:inception_upper": "2023-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-13",
+    "edtf:cessation": "2023-01-13T05:03:57Z",
+    "edtf:inception": "2023-01-13T03:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "23990864"
+    },
     "wof:country": "US",
     "wof:created": 1673713601,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,7 +97,7 @@
       1763588327,
       1159283875
     ],
-    "wof:lastmodified": 1673713601,
+    "wof:lastmodified": 1673713767,
     "wof:name": "UA298 (SFO-SEA)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",
