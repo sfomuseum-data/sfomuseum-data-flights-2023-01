@@ -2,10 +2,12 @@
   "id": 1797065439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-14",
+    "date:cessation_upper": "2023-01-14",
     "date:inception_lower": "2023-01-14",
     "date:inception_upper": "2023-01-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-14",
+    "edtf:cessation": "2023-01-14T09:29:57-08:00",
+    "edtf:inception": "2023-01-14T23:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614944,
@@ -39,6 +42,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N311DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24072251",
+      "swim:gufi": "KS81657700"
+    },
     "wof:country": "US",
     "wof:created": 1673798857,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +105,7 @@
       1763588237,
       1159284613
     ],
-    "wof:lastmodified": 1673798857,
+    "wof:lastmodified": 1673800045,
     "wof:name": "DL2281 (SEA-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",

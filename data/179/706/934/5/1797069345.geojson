@@ -2,10 +2,12 @@
   "id": 1797069345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-14",
+    "date:cessation_upper": "2023-01-14",
     "date:inception_lower": "2023-01-14",
     "date:inception_upper": "2023-01-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-14",
+    "edtf:cessation": "2023-01-14T01:56:05Z",
+    "edtf:inception": "2023-01-14T01:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "24071171"
+    },
     "wof:country": "US",
     "wof:created": 1673799840,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -56,7 +61,7 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1673799840,
+    "wof:lastmodified": 1673800040,
     "wof:name": "UA1320 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
