@@ -2,10 +2,12 @@
   "id": 1797076033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-16",
+    "date:cessation_upper": "2023-01-16",
     "date:inception_lower": "2023-01-15",
     "date:inception_upper": "2023-01-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-15",
+    "edtf:cessation": "2023-01-16T14:22:11Z",
+    "edtf:inception": "2023-01-15T23:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PR",
     "flysfo:date": "2023-01-15",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24256165"
+    },
     "wof:country": "US",
     "wof:created": 1673886148,
     "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
@@ -86,7 +91,7 @@
       1159285015,
       1763588417
     ],
-    "wof:lastmodified": 1673886148,
+    "wof:lastmodified": 1673886472,
     "wof:name": "PR5105 (SFO-MNL)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",
