@@ -2,10 +2,12 @@
   "id": 1797080755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-16",
+    "date:cessation_upper": "2023-01-16",
     "date:inception_lower": "2023-01-16",
     "date:inception_upper": "2023-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-16",
+    "edtf:cessation": "2023-01-16T08:19:37Z",
+    "edtf:inception": "2023-01-16T06:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-01-16",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24251138"
+    },
     "wof:country": "US",
     "wof:created": 1673971923,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1673971923,
+    "wof:lastmodified": 1673972971,
     "wof:name": "WN1764 (DEN-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

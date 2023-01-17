@@ -2,10 +2,12 @@
   "id": 1797080957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-17",
+    "date:cessation_upper": "2023-01-17",
     "date:inception_lower": "2023-01-16",
     "date:inception_upper": "2023-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-16",
+    "edtf:cessation": "2023-01-16T23:35:01-08:00",
+    "edtf:inception": "2023-01-16T15:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230116-A-ANA-7379",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78509",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24267858",
+      "swim:gufi": "KO44281200"
+    },
     "wof:country": "US",
     "wof:created": 1673971975,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -90,9 +104,10 @@
       102525535,
       1159285413,
       1763588353,
-      1159283875
+      1159283875,
+      1159289871
     ],
-    "wof:lastmodified": 1673971975,
+    "wof:lastmodified": 1673972972,
     "wof:name": "UA1281 (RNO-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

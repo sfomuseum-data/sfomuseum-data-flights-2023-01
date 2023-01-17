@@ -2,10 +2,12 @@
   "id": 1797084221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-01-16",
+    "date:cessation_upper": "2023-01-16",
     "date:inception_lower": "2023-01-16",
     "date:inception_upper": "2023-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-01-16",
+    "edtf:cessation": "2023-01-16T04:31:12Z",
+    "edtf:inception": "2023-01-16T03:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534161,
     "sfomuseum:base_flight_id": "20230116-D-DLH-9264",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "24245734",
+      "swim:gufi": "KO04953200"
+    },
     "wof:country": "US",
     "wof:created": 1673972798,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588283,
-      1159286015
+      1159286015,
+      1159292085
     ],
-    "wof:lastmodified": 1673972798,
+    "wof:lastmodified": 1673972991,
     "wof:name": "UA2047 (SFO-SNA)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
