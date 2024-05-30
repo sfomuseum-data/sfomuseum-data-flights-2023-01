@@ -40,6 +40,7 @@
     "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
+        "custom_id": 1797074661,
         "flight_id": 1797074661
       }
     ],
@@ -50,11 +51,13 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1673885791,
+    "wof:lastmodified": 1717042613,
     "wof:name": "AC8558 (SFO-YEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -52,6 +52,7 @@
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1797043453,
         "flight_id": 1797043453
       }
     ],
@@ -62,11 +63,13 @@
       1159289939,
       102527513
     ],
-    "wof:lastmodified": 1673540884,
+    "wof:lastmodified": 1717042608,
     "wof:name": "DL8839 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

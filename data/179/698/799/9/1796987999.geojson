@@ -53,6 +53,7 @@
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
     "wof:hierarchy": [
       {
+        "custom_id": 1796987999,
         "flight_id": 1796987999
       }
     ],
@@ -63,11 +64,13 @@
       1159292085,
       102530841
     ],
-    "wof:lastmodified": 1672936556,
+    "wof:lastmodified": 1717042611,
     "wof:name": "B68362 (SFO-FLL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

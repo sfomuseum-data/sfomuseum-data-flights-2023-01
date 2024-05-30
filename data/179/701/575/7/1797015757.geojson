@@ -53,6 +53,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1797015757,
         "flight_id": 1797015757
       }
     ],
@@ -63,11 +64,13 @@
       1159284261,
       1528104583
     ],
-    "wof:lastmodified": 1673281756,
+    "wof:lastmodified": 1717042609,
     "wof:name": "DL9960 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

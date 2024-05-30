@@ -53,6 +53,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1797069209,
         "flight_id": 1797069209
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1673800050,
+    "wof:lastmodified": 1717042613,
     "wof:name": "WN233 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

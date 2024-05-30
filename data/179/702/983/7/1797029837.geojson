@@ -59,6 +59,7 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
+        "custom_id": 1797029837,
         "flight_id": 1797029837
       }
     ],
@@ -70,11 +71,13 @@
       1159283697,
       1159289985
     ],
-    "wof:lastmodified": 1673368206,
+    "wof:lastmodified": 1717042621,
     "wof:name": "UA395 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

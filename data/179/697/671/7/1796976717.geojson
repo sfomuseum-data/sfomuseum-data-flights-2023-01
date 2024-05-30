@@ -40,6 +40,7 @@
     "wof:geomhash": "9156ee38a86542341666d641670fb814",
     "wof:hierarchy": [
       {
+        "custom_id": 1796976717,
         "flight_id": 1796976717
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1672848395,
+    "wof:lastmodified": 1717042610,
     "wof:name": "AS338 (MRY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

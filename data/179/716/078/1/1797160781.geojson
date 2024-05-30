@@ -48,6 +48,7 @@
     "wof:geomhash": "3ccef5323f8b759efee07225c392c83b",
     "wof:hierarchy": [
       {
+        "custom_id": 1797160781,
         "flight_id": 1797160781
       }
     ],
@@ -58,11 +59,13 @@
       1159284625,
       1159289995
     ],
-    "wof:lastmodified": 1675096201,
+    "wof:lastmodified": 1717042614,
     "wof:name": "KE9027 (GMP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

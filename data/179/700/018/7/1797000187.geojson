@@ -40,6 +40,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1797000187,
         "flight_id": 1797000187
       }
     ],
@@ -50,11 +51,13 @@
       1360700749,
       -1
     ],
-    "wof:lastmodified": 1673108053,
+    "wof:lastmodified": 1717042622,
     "wof:name": "Y42507 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

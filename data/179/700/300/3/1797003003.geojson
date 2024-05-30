@@ -53,6 +53,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1797003003,
         "flight_id": 1797003003
       }
     ],
@@ -63,11 +64,13 @@
       1159289871,
       102533997
     ],
-    "wof:lastmodified": 1673108921,
+    "wof:lastmodified": 1717042608,
     "wof:name": "UA2748 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

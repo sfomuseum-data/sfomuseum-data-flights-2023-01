@@ -45,6 +45,7 @@
     "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
     "wof:hierarchy": [
       {
+        "custom_id": 1797002663,
         "flight_id": 1797002663
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285413
     ],
-    "wof:lastmodified": 1673108681,
+    "wof:lastmodified": 1717042608,
     "wof:name": "LX39 (SFO-ZRH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

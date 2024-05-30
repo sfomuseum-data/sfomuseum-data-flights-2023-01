@@ -53,6 +53,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1797032625,
         "flight_id": 1797032625
       }
     ],
@@ -63,11 +64,13 @@
       102527209,
       102527513
     ],
-    "wof:lastmodified": 1673368202,
+    "wof:lastmodified": 1717042608,
     "wof:name": "WN154 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

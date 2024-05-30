@@ -52,6 +52,7 @@
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
     "wof:hierarchy": [
       {
+        "custom_id": 1796981611,
         "flight_id": 1796981611
       }
     ],
@@ -62,11 +63,13 @@
       1159285413,
       1159289995
     ],
-    "wof:lastmodified": 1672849777,
+    "wof:lastmodified": 1717042607,
     "wof:name": "UA2802 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

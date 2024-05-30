@@ -48,6 +48,7 @@
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
     "wof:hierarchy": [
       {
+        "custom_id": 1796976799,
         "flight_id": 1796976799
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102529173
     ],
-    "wof:lastmodified": 1672849772,
+    "wof:lastmodified": 1717042610,
     "wof:name": "AS9801 (ABQ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

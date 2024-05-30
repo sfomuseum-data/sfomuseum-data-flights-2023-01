@@ -40,6 +40,7 @@
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
     "wof:hierarchy": [
       {
+        "custom_id": 1796969849,
         "flight_id": 1796969849
       }
     ],
@@ -50,11 +51,13 @@
       1159284583,
       -1
     ],
-    "wof:lastmodified": 1672762167,
+    "wof:lastmodified": 1717042612,
     "wof:name": "B6111 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

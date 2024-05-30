@@ -52,6 +52,7 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
+        "custom_id": 1796980371,
         "flight_id": 1796980371
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1672849768,
+    "wof:lastmodified": 1717042621,
     "wof:name": "DL9885 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

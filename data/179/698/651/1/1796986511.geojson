@@ -45,6 +45,7 @@
     "wof:geomhash": "6716e4c7ca0e3c1891c385118d042906",
     "wof:hierarchy": [
       {
+        "custom_id": 1796986511,
         "flight_id": 1796986511
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1672935727,
+    "wof:lastmodified": 1717042610,
     "wof:name": "AC4154 (SFO-TUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

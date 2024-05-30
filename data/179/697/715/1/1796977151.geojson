@@ -48,6 +48,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1796977151,
         "flight_id": 1796977151
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102532251
     ],
-    "wof:lastmodified": 1672849775,
+    "wof:lastmodified": 1717042610,
     "wof:name": "DL8925 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -51,6 +51,7 @@
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
     "wof:hierarchy": [
       {
+        "custom_id": 1797095255,
         "flight_id": 1797095255
       }
     ],
@@ -61,11 +62,13 @@
       102530507,
       1159285413
     ],
-    "wof:lastmodified": 1674145673,
+    "wof:lastmodified": 1717042617,
     "wof:name": "UA2742 (RDM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

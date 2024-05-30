@@ -48,6 +48,7 @@
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
+        "custom_id": 1797144239,
         "flight_id": 1797144239
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102532939
     ],
-    "wof:lastmodified": 1674836502,
+    "wof:lastmodified": 1717042617,
     "wof:name": "UA2759 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

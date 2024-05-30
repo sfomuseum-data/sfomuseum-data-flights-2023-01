@@ -54,6 +54,7 @@
     "wof:geomhash": "3d1812cb234aac8b643ea0201167e576",
     "wof:hierarchy": [
       {
+        "custom_id": 1797069737,
         "flight_id": 1797069737
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1673800043,
+    "wof:lastmodified": 1717042614,
     "wof:name": "UA8111 (SFO-SAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

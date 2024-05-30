@@ -45,6 +45,7 @@
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
+        "custom_id": 1797174525,
         "flight_id": 1797174525
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1779770725
     ],
-    "wof:lastmodified": 1675267890,
+    "wof:lastmodified": 1717042620,
     "wof:name": "QR2287 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

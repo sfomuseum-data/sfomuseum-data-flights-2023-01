@@ -40,6 +40,7 @@
     "wof:geomhash": "512b3b111d6d870a84d7b8242b8e09c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1797161617,
         "flight_id": 1797161617
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1675095224,
+    "wof:lastmodified": 1717042615,
     "wof:name": "UA5459 (PSC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

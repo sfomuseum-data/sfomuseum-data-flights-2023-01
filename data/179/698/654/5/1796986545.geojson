@@ -45,6 +45,7 @@
     "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
     "wof:hierarchy": [
       {
+        "custom_id": 1796986545,
         "flight_id": 1796986545
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1672935741,
+    "wof:lastmodified": 1717042610,
     "wof:name": "AC4335 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

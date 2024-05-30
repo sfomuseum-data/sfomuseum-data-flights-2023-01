@@ -49,6 +49,7 @@
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
+        "custom_id": 1797010009,
         "flight_id": 1797010009
       }
     ],
@@ -59,11 +60,13 @@
       1159285413,
       1159292085
     ],
-    "wof:lastmodified": 1673195253,
+    "wof:lastmodified": 1717042621,
     "wof:name": "UA8247 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

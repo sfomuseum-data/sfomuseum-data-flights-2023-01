@@ -53,6 +53,7 @@
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy": [
       {
+        "custom_id": 1797171013,
         "flight_id": 1797171013
       }
     ],
@@ -64,11 +65,13 @@
       1159292085,
       102536579
     ],
-    "wof:lastmodified": 1675182633,
+    "wof:lastmodified": 1717042618,
     "wof:name": "UA412 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

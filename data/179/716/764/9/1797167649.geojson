@@ -53,6 +53,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1797167649,
         "flight_id": 1797167649
       }
     ],
@@ -64,11 +65,13 @@
       1159283875,
       1159292085
     ],
-    "wof:lastmodified": 1675182640,
+    "wof:lastmodified": 1717042620,
     "wof:name": "UA1061 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

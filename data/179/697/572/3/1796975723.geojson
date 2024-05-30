@@ -40,6 +40,7 @@
     "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
     "wof:hierarchy": [
       {
+        "custom_id": 1796975723,
         "flight_id": 1796975723
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1672848095,
+    "wof:lastmodified": 1717042609,
     "wof:name": "AA499 (FAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

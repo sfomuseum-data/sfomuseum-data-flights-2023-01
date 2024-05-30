@@ -48,6 +48,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1797121967,
         "flight_id": 1797121967
       }
     ],
@@ -58,11 +59,13 @@
       102530049,
       102527513
     ],
-    "wof:lastmodified": 1674491328,
+    "wof:lastmodified": 1717042614,
     "wof:name": "DL8920 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

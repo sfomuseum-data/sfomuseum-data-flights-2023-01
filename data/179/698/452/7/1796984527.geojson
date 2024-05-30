@@ -52,6 +52,7 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "custom_id": 1796984527,
         "flight_id": 1796984527
       }
     ],
@@ -62,11 +63,13 @@
       102555307,
       1159284261
     ],
-    "wof:lastmodified": 1672936546,
+    "wof:lastmodified": 1717042608,
     "wof:name": "DL8841 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

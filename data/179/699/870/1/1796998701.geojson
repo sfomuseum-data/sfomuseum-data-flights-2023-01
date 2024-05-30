@@ -53,6 +53,7 @@
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
     "wof:hierarchy": [
       {
+        "custom_id": 1796998701,
         "flight_id": 1796998701
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       102533657
     ],
-    "wof:lastmodified": 1673108911,
+    "wof:lastmodified": 1717042612,
     "wof:name": "DL8937 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
